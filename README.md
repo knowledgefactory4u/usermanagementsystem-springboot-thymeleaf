@@ -1,5 +1,5 @@
 # usermanagementsystem-springboot-thymeleaf
-User management system,,MVP,Student Project,Thymeleaf,H2DB,Mini Project,Spring Boot,Download source code
+User management system,Student Project,Thymeleaf,H2DB,Mini Project,Spring Boot,Download source code
 
 <div><h2 id="project-directory" style="background-color: white; box-sizing: border-box; color: #212529; font-family: system-ui, -apple-system, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, &quot;Liberation Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: calc(1.325rem + 0.9vw); font-weight: 500; line-height: 1.2; margin-bottom: 0.5rem; margin-top: 4rem;">Download Source code - Local environment setup</h2></div>
 
